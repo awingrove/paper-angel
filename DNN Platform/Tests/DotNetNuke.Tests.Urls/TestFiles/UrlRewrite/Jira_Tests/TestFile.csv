@@ -1,0 +1,2 @@
+﻿Test,					Scheme,		Page Name,		Test Url,										Expected Url,										Status,		Final Url,					RedirectReason
+DNN_3361,				http://,	,				http://{alias},									{defaultPage}?language=en-US,						200,								
